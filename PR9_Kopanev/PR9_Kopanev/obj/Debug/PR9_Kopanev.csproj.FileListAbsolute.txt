@@ -1,0 +1,16 @@
+D:\VS\PR9_Kopanev\PR9_Kopanev\bin\Debug\PR9_Kopanev.exe.config
+D:\VS\PR9_Kopanev\PR9_Kopanev\bin\Debug\PR9_Kopanev.exe
+D:\VS\PR9_Kopanev\PR9_Kopanev\bin\Debug\PR9_Kopanev.pdb
+D:\VS\PR9_Kopanev\PR9_Kopanev\obj\Debug\PR9_Kopanev.csproj.AssemblyReference.cache
+D:\VS\PR9_Kopanev\PR9_Kopanev\obj\Debug\PR9_Kopanev.csproj.SuggestedBindingRedirects.cache
+D:\VS\PR9_Kopanev\PR9_Kopanev\obj\Debug\MainWindow.g.cs
+D:\VS\PR9_Kopanev\PR9_Kopanev\obj\Debug\App.g.cs
+D:\VS\PR9_Kopanev\PR9_Kopanev\obj\Debug\PR9_Kopanev_MarkupCompile.cache
+D:\VS\PR9_Kopanev\PR9_Kopanev\obj\Debug\PR9_Kopanev_MarkupCompile.lref
+D:\VS\PR9_Kopanev\PR9_Kopanev\obj\Debug\MainWindow.baml
+D:\VS\PR9_Kopanev\PR9_Kopanev\obj\Debug\PR9_Kopanev.g.resources
+D:\VS\PR9_Kopanev\PR9_Kopanev\obj\Debug\PR9_Kopanev.Properties.Resources.resources
+D:\VS\PR9_Kopanev\PR9_Kopanev\obj\Debug\PR9_Kopanev.csproj.GenerateResource.cache
+D:\VS\PR9_Kopanev\PR9_Kopanev\obj\Debug\PR9_Kopanev.csproj.CoreCompileInputs.cache
+D:\VS\PR9_Kopanev\PR9_Kopanev\obj\Debug\PR9_Kopanev.exe
+D:\VS\PR9_Kopanev\PR9_Kopanev\obj\Debug\PR9_Kopanev.pdb
